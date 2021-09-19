@@ -29,6 +29,12 @@
       "day": "asd",
       "reminder": true,
       "id": 131133333
+    },
+    {
+      "text": "Test",
+      "day": "huomenna klo 12.00",
+      "reminder": true,
+      "id": 131133334
     }
   ]
 }
