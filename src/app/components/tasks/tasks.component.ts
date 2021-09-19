@@ -21,4 +21,8 @@ export class TasksComponent implements OnInit {
     });
   }
 
+  deleteTask(task: Task) {
+    
+  }
+
 }
